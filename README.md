@@ -1,7 +1,7 @@
 # SendEmail
 
 ## Project Description
-SendMail is a Python package for sending emails using SMTP. This project allows you to send emails using your Gmail account.
+SendEmail is a Python package for sending emails using SMTP. This project allows you to send emails using your Gmail account.
 
 ## Installation
 You can install this package in two ways:
